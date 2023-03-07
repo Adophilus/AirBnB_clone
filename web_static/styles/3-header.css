@@ -1,0 +1,16 @@
+/*
+ * === Header style ===
+ */
+
+/* Header style */
+header{
+    background: 20px;
+    background-color: #fff;
+    width: 100%;
+    height: 70px;
+    border-bottom: 1.5px solid #CCC;
+    background-image: url(images/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
